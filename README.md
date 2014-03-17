@@ -1,8 +1,3 @@
-ffm
-===
-
-fatfox module for orakel xmpp bot
-
 #fatfox add-in
 
 Add the folowing lines to orakel.py:
