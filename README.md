@@ -3,10 +3,10 @@ ffm
 
 fatfox module for orakel xmpp bot
 
+#fatfox add-in
+
 Add the folowing lines to orakel.py:
 
-#[fatfox add-in]
-
-from fatfox import FatFox
-  fatfox = FatFox()
-  xmpp.add_message_listener(fatfox)
+from fatfox import FatFox <br>
+  fatfox = FatFox() <br>
+  xmpp.add_message_listener(fatfox) <br>
